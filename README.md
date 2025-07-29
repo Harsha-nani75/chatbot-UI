@@ -1,7 +1,3 @@
-Here’s a complete `README.md` for your **AI Chatbot UI** project — clean, professional, and ready for GitHub:
-
----
-
 ```markdown
 # 🤖 AI Chatbot UI
 
@@ -10,6 +6,7 @@ A sleek and modern user interface for a chatbot using HTML, CSS, and JavaScript 
 ---
 
 ## 📸 Preview
+![<img width="740" height="814" alt="{00F2C251-C803-43F2-A7DD-09DABD5176AB}" src="https://github.com/user-attachments/assets/03e1b406-3604-42b7-9378-629e1c317e2d" />]
 
 <img src="preview.png" alt="AI Chatbot UI Preview" width="100%">
 
@@ -110,9 +107,3 @@ This project is licensed under the MIT License. Free to use and modify.
 
 ```
 
----
-
-✅ You can now copy this into your `README.md` file inside your repo.
-
-Would you like me to help create a matching `preview.png` image for GitHub display and LinkedIn too?
-```
